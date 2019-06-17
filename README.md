@@ -1,4 +1,4 @@
-# news-portal-recommender
+# Recommender system for a news portal
 News Portal User Interactions by Globo.com
 
 ## Description
